@@ -20,37 +20,35 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iZeeshukhan&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iZeeshukhan&layout=compact&theme=radical" height="170" />
 </p>
 
 ---
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iZeeshukhan&theme=radical" />
 </p>
 
 ---
 
 ### 🌍 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/imrzeeshan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:ibyteshade@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
-  </a>
+  
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 - 🔗 [Ifetchly](https://ifetchly.com) – Web scraping & B2B lead generation platform  
-- 🔗 [Syntora AI](https://syntora.ai) – Automation & data enrichment tools  
+- 🔗 [Syntora AI](https://syntoraai.com) – Automation & data enrichment tools  
 
 ---
 
